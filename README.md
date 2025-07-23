@@ -24,7 +24,8 @@
 
  
   
-  
+</head>
+<body>
 
   <img src=https://hkfsgnludtapbbtsacwd.supabase.co/storage/v1/object/public/files/Karvis%20Jones/images/514368873-10161953274898353-1743868935417483483-n_1753279553844_preview.jpg
     " width="300"/>
